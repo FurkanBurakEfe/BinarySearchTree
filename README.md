@@ -23,3 +23,7 @@ ikinci eleman 5 , 7 den küçük sola ekliyoruz. sonraki eleman 1, 5 ten küçü
                                / \
                                  
                              2     4
+
+
+
+www.patika.dev
